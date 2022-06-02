@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/6. LastScene/Last_Scene.unity
+    guid: f92dfda6574c0dd4bb785010bc97a9a0
+  - enabled: 1
+    path: Assets/1. StartScene/Start_Scene.unity
+    guid: a61bc9d674e4a6b45afbca83b2ab4280
+  - enabled: 1
+    path: Assets/1. StartScene/StartScene/Scenes/MainScene.unity
+    guid: 8e7bb37cfbf0fe9449c8948f7d4af20c
+  - enabled: 1
+    path: Assets/1. StartScene/StartScene/Scenes/MagicStick.unity
+    guid: c23c322a60654824081c9851cc73df89
+  - enabled: 1
+    path: Assets/1. StartScene/StartScene/Scenes/MagicPotion.unity
+    guid: bc9d6b69899c09342a3f35eb5e828d6b
+  - enabled: 1
+    path: Assets/1. StartScene/StartScene/Scenes/MagicFly.unity
+    guid: e19fd7fe5c0afcf4db3c0692dcdd69ac
+  - enabled: 1
+    path: Assets/1. StartScene/StartScene/Scenes/MagicBattle.unity
+    guid: ac31e6a3c109ba44bbf401f5977284e5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ca3bb5def6391d34fae7f8e5d819d55f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e07865820d9c58a49881f8b63d3a4dc5, type: 2}
